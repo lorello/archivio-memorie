@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Narratori on Archivio delle Memorie</title>
-    <link>/narratori/</link>
+    <link>https://lorello.github.io/igde-memorie/narratori/</link>
     <description>Recent content in Narratori on Archivio delle Memorie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     <lastBuildDate>Wed, 13 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/narratori/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lorello.github.io/igde-memorie/narratori/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fernando Brachini</title>
-      <link>/narratori/fernando-brachini/</link>
+      <link>https://lorello.github.io/igde-memorie/narratori/fernando-brachini/</link>
       <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/narratori/fernando-brachini/</guid>
+      <guid>https://lorello.github.io/igde-memorie/narratori/fernando-brachini/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Renzo Comparini</title>
-      <link>/narratori/renzo-comparini/</link>
+      <link>https://lorello.github.io/igde-memorie/narratori/renzo-comparini/</link>
       <pubDate>Mon, 27 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>/narratori/renzo-comparini/</guid>
+      <guid>https://lorello.github.io/igde-memorie/narratori/renzo-comparini/</guid>
       <description></description>
     </item>
     
