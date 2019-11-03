@@ -4,7 +4,8 @@
 if [ "`git status -s`" ]
 then
     echo "The working directory is dirty. Please commit any pending changes."
-    exit 1;
+    #exit 1;
+    sleep 2
 fi
 
 echo "Deleting old publication"
