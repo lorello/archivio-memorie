@@ -1,0 +1,37 @@
+languageCode = "it-it"
+title = "Archivio delle Memorie"
+baseurl = ""
+theme = "stage"
+verbose = true
+
+[params]
+  title = "Archivio delle Memorie"
+  subtitle = "Progetti di raccolta a cura di Massimo Novi"
+  builtBy = "Massimo Novi"
+  defaultImage = "gopher.jpg"
+
+  facebook = "https://www.facebook.com/giardinelefanti"
+  quora = ""
+  twitter = "http://twitter.com/giardinelefanti"
+  github = "http://github.com/lorello"
+  email = ""
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = "https://www.facebook.com/giardinelefanti/"
+  fbPageTitle = "Il Giardino degli Elefanti"
+
+  analytics = ""
+  disqus = ""
+
+  [params.copyright]
+     name = "Il Giardino degli Elefanti"
+     link = "https://ilgiardinodeglielefanti.org"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  ascoltatore = "ascoltatori"
+  narratore = "narratori"
+  progetto = "progetti"
+
